@@ -3,7 +3,7 @@
 # Coding is ![Larning](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ## General Info
-Those projects were built in 2020 during **DCI Web Development Course**
+Those projects were built in 2019 - 2020 during **DCI Web Development Course**
 
 ### 🚀 Technologies used
 ![JavaScript](https://williamavasquez.herokuapp.com/img/js.png)
