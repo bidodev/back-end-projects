@@ -14,6 +14,7 @@ Those projects were built in 2020 during **DCI Web Development Course**
 
 ## List of Projects
 * <a href="https://github.com/bidodev/dtravel-rest-api" alt="d-travel" target="_blank">Dtravel REST API</a>
+* <a href="https://github.com/bidodev/word-definition-finder" alt="word-definition-finder" target="_blank">Word Definition Finder</a>
 
 ## Contact
 Created by [Claudinei Bido](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
